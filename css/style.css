@@ -1,0 +1,17 @@
+.main {
+  max-width: 750px;
+}
+h1 {
+  font-family:Georgia;
+}
+p {
+  margin: 25px;
+}
+#random_quote{
+  text-align:center;
+}
+#author_name{
+  text-align:center;
+  font-family:Tahoma;
+  color:blue;
+}
